@@ -1,3 +1,3 @@
 Software Engineer
 -----------------
-Hello there. This section will be finished... soon™. Until then, please see my [LinkedIn](https://www.linkedin.com/in/reinder-vos-de-wael/) for more about me.
+Hello there! Welcome to my personal GitHub page. I don't regularly update this, so for more information please visit my [personal website](https://reindervosdewael.github.io/) or my [LinkedIn](https://www.linkedin.com/in/reinder-vos-de-wael/).
